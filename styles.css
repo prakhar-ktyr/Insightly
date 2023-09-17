@@ -1,0 +1,20 @@
+.insightly-completion {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: darkblue; /* Changed the background color */
+    color: white; /* Added text color */
+    border: 1px solid #d4d4d4;
+    border-radius: 8px;
+    margin: 20px 10px;
+    width: 300px;
+    position: fixed;
+    top: 100px;
+    right: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+#main {
+    margin-right: 340px; /* Adjusts the right margin to make space for the ChatGPT prompt */
+}
