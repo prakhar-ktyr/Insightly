@@ -4,7 +4,6 @@ Insightly is a Chrome extension designed to provide AI-powered insights from Cha
 
 ![Insightly Logo](icon128.png) 
 
-*Note: Image preview assumes that you have an `icon128.png` in your repository.*
 
 ## Features 🌟
 
