@@ -4,7 +4,10 @@ Insightly is a Chrome extension designed to provide AI-powered insights from Cha
 
 ![Insightly Logo](icon128.png) 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 ## Features 🌟
 
 - **AI-Enhanced Google Search**: Receive relevant insights, suggestions, or deeper explanations from ChatGPT for your search queries.
